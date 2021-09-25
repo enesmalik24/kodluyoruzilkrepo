@@ -13,4 +13,4 @@ Pull requestler kabul edilir.Büyük değişiklikler için,lütfen ne değiştir
 ## LICENSE
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![Kodluyoruz Logo](https://medium.com/@kodluyoruz)
+![Kodluyoruz Logo](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
